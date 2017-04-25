@@ -1,4 +1,7 @@
-# api documentation for  [angular-permission (v5.2.3)](https://github.com/Narzerus/angular-permission)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-permission.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-permission) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-permission.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-permission)
+# npmdoc-angular-permission
+
+#### basic api documentation for  [angular-permission (v5.2.3)](https://github.com/Narzerus/angular-permission)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-permission.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-permission) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-permission.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-permission)
+
 #### Fully featured role and permission based access control for your angular applications
 
 [![NPM](https://nodei.co/npm/angular-permission.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angular-permission)
@@ -99,7 +102,8 @@
         "url": "git+https://github.com/Narzerus/angular-permission.git"
     },
     "scripts": {},
-    "version": "5.2.3"
+    "version": "5.2.3",
+    "bin": {}
 }
 ```
 
